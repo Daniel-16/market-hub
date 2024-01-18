@@ -2,6 +2,16 @@
 
 This is a modern and customizable admin dashboard built with Tailwind CSS and React. It features a clean and intuitive design, making it easy to manage your application's data and settings. This is basically a front end project
 
+![Admin Dashboard](/src/images/screenshot.png)
+
+![Admin Dashboard](/src/images/screenshot2.png)
+
+![Admin Dashboard](/src/images/screenshot3.png)
+
+![Admin Dashboard](/src/images/screenshot4.png)
+
+![Admin Dashboard](/src/images/screenshot5.png)
+
 ## Features
 
 - Tailwind CSS for styling
