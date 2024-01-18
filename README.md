@@ -2,6 +2,8 @@
 
 This is a modern and customizable admin dashboard built with Tailwind CSS and React. It features a clean and intuitive design, making it easy to manage your application's data and settings. This is basically a front end project
 
+[Project Demo](https://dan-codes-admin-dashboard.vercel.app/)
+
 ![Admin Dashboard](/src/images/screenshot.png)
 
 ![Admin Dashboard](/src/images/screenshot2.png)
